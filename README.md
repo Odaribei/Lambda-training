@@ -1,1 +1,2 @@
 # BlueLambdaTraining
+my fresher  exercise
